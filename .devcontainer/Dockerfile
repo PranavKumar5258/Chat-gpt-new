@@ -1,4 +1,4 @@
-# Use an official Python base image from the Docker Hub
+# Use an official Python base image from the Docker Hubdf
 FROM python:3.10
 
 # Install browsers
